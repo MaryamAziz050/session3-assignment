@@ -1,0 +1,5 @@
+name,city,age,score,score_pct,is_karachi,passed
+Ali,Karachi,21.0,80.0,0.8,1,1
+Sara,Karachi,22.0,92.0,0.92,1,1
+Hina,Lahore,20.0,72.0,0.72,0,1
+Bilal,Lahore,22.0,38.0,0.38,0,0
